@@ -1,0 +1,21 @@
+R_125:4:Standard:A:air conditioning, cable TV, Wifi, fridge:images/standardroom.jpg
+R_124:1:Standard:A:air conditioning, cable TV, Wifi, fridge:images/standardroom.jpg
+R_333:4:Standard:A:air conditioning, cable TV, Wifi, fridge:images/standardroom.jpg
+R_333_CUS123_10102019:10/10/2019:15/10/2019:15/10/2019:995.00:0.00
+R_222:2:Standard:A:air conditioning, cable TV, Wifi, fridge:images/standardroom.jpg
+R_111:1:Standard:A:air conditioning, cable TV, Wifi, fridge:images/standardroom.jpg
+R_111_CUS222_02102019:02/10/2019:06/10/2019:07/10/2019:199.00:269.00
+R_122:2:Standard:A:air conditioning, cable TV, Wifi, fridge:images/standardroom.jpg
+R_133:4:Standard:A:air conditioning, cable TV, Wifi, fridge:images/standardroom.jpg
+S_126:6:Suite:A:10/10/2019:large seating area, outdoor balconies:images/No_image_available.png
+S_126_CUS222_11102019:11/10/2019:16/10/2019:none:none:none
+S_111:6:Suite:A:10/10/2019:large seating area, outdoor balconies:images/suite.jpg
+S_111_CUS123_10102019:10/10/2019:15/10/2019:15/10/2019:4995.00:0.00
+S_133:6:Suite:A:10/10/2019:large seating area, outdoor balconies:images/suite.jpg
+S_133_CUS111_01102019:01/10/2019:03/10/2019:03/10/2019:999.00:0.00
+S_121:6:Suite:M:10/10/2019:large seating area, outdoor balconies:images/suite.jpg
+S_124:6:Suite:A:10/10/2019:large seating area, outdoor balconies:images/No_image_available.png
+S_333:6:Suite:M:10/10/2019:large seating area, outdoor balconies:images/suite.jpg
+S_333_CUS111_01102019:01/10/2019:03/10/2019:03/10/2019:999.00:0.00
+S_123:6:Suite:A:10/10/2019:large seating area, outdoor balconies:images/suite.jpg
+S_222:6:Suite:A:10/10/2019:large seating area, outdoor balconies:images/suite.jpg
